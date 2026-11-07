@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Espresso",
+      "category": "hot",
+      "price": 3.49,
+      "description": "Rich, intense single shot of dark roast espresso.",
+      "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Caramel Macchiato",
+      "category": "hot",
+      "price": 4.99,
+      "description": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and caramel drip.",
+      "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Iced Vanilla Latte",
+      "category": "cold",
+      "price": 4.79,
+      "description": "Espresso combined with milk and sweet vanilla syrup, served over ice.",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Cold Brew Special",
+      "category": "cold",
+      "price": 4.29,
+      "description": "Slow-steeped for 20 hours for an exceptionally smooth flavor.",
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Butter Croissant",
+      "category": "snack",
+      "price": 2.99,
+      "description": "Flaky, buttery, freshly baked golden croissant.",
+      "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Muffin",
+      "category": "snack",
+      "price": 3.25,
+      "description": "Rich chocolate muffin loaded with belgian chocolate chips.",
+      "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}
